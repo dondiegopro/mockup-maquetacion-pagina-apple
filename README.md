@@ -10,7 +10,7 @@ Este es un proyecto de maquetación basico realizado con HTML Y CSS.
 
 ## Ver ejemplo en vivo
 
-* [https://dondiegopro.github.io/mockup-maquetacion-pagina-apple/](https://dondiegopro.github.io/mockup-maquetacion-pagina-apple/)
+* [https://dondiegopro.github.io/mockup-pagina-apple/](https://dondiegopro.github.io/mockup-pagina-apple/)
 
 ## Contratacion
 Si me quieres contratar puedes escribirme a jbodiegosierra@gmail.com
