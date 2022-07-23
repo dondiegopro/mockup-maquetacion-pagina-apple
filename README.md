@@ -6,7 +6,7 @@ Este es un proyecto de maquetación basico realizado con HTML Y CSS.
 
 **Diego Sierra**
 
-* [Linkedin] (www.linkedin.com/in/dondiegopro)
+* [LinkedIn](www.linkedin.com/in/dondiegopro)
 
 ## Ver ejemplo en vivo
 
