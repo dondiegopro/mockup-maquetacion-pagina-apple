@@ -1,0 +1,183 @@
+
+/*...........................universa*/
+*{
+	padding: 0;    
+	margin: 0;
+	font-family: roboto, sans-serif;
+	color: #6e6e6e;
+}
+ 
+/*...........................body*/
+body{
+	background-image: url(../img/fondo.jpg); 
+	background-repeat: repeat;
+}
+
+/*...........................contenedor principal*/
+#contenedor{ 
+	margin: 0 auto;
+	width: 850px;
+	height: 1090px;
+	
+}
+
+/*...........................cabeza donde se encuentra el logo y el menu*/
+
+#menu{       
+	width: 100%;
+	height: 90px;
+	
+}
+
+/*............................contenedor logo*/
+
+.titulo{     
+	width: 380px;
+	height: 90px; 
+	float: left;
+}
+
+.titulo img{  /*logo*/
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+/*............................contenedor de la barra de navegacion*/
+
+.nav{    
+	width: 470px;
+	height: 90px;
+	float: right;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+/*............................menu*/
+
+.boton{      
+	width: 100%;
+	background-image: url(../img/menu.png);
+	padding-top: 18px;
+	padding-bottom: 18px;	
+	font-size: 14px;
+	border-radius: 10px;
+	box-shadow: 0 0 2px;
+
+}
+
+.boton p a{ 
+	margin: 10px;
+	padding: 7px;	
+	text-align: center;
+	text-decoration-line: none;
+}
+
+.boton p a:hover{   
+	padding: 7px;
+	background:#807f7f;
+	border-radius: 5px;
+	color: #fff;
+}
+
+/*.............................contenedor donde esta la parte principal de la pagina*/
+
+#principal{   
+	width: 100%;
+	height: 540px;
+}
+
+/*.............................contenedor de la izquierda*/
+
+.izq{         
+	width: 375px;
+	height: 540px;
+	float: left;
+}
+
+/*.............................contenedor de la derecha*/
+
+.der{        
+	width:475px;
+	height: 540px;
+	float: left;
+
+	
+}
+
+/*.............................secciones de la parte derecha*/
+
+.seccion{   
+	width: 100%;
+	height:60px;
+	margin-bottom: 20px;
+
+}
+
+.seccion h3{
+	margin-bottom: 5px;
+}
+
+.seccion p{
+	font-size: 13px;
+	word-spacing: 20px;
+}
+
+.seccion img{
+	float: left;
+	margin-right: 30px;
+}
+
+.appstore{
+	margin-top: 20px;	
+	float: right;
+}
+
+/*..............................contenedor donde esta la segunda parte de la pagina*/
+
+#secundario{    
+	width: 100%;
+	height: 200px;
+	display: inline-block;
+}
+
+#secundario p{
+	font-size: 13px;
+	margin-right: 20px;
+	word-spacing: 5px;
+}
+
+h2{
+	font-size: 30px;
+	font-weight: initial;
+	margin-bottom: 10px;
+
+}
+
+ /*.............................contenedor de la galeria*/
+
+#galeria{     
+	width: 100%;
+	height: 192px;
+
+}
+
+.uno{
+	float: left;
+}
+
+.dos{
+	padding-left: 25px;
+}
+
+.tres{ 
+	float: right;
+}
+
+/*..............................pie de pagina*/
+
+#pie{      
+	width: 100%;
+	height: 72px;
+	text-align: center;
+	margin-top: 20px;
+}
