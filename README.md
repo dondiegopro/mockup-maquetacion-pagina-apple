@@ -13,7 +13,7 @@ Este es un proyecto de maquetación basico realizado con HTML Y CSS.
 * [https://dondiegopro.github.io/mockup-maquetacion-pagina-apple/](https://dondiegopro.github.io/mockup-maquetacion-pagina-apple/)
 
 ## Intalacion
-Este proyecto no necesita instalación. Simplemente abre la carpeta o haz doble clic en el .html
+Este proyecto no necesita instalación. Simplemente abre la carpeta o haz doble click en el .html
 
 ## Contratacion
 Si me quieres contratar puedes escribirme a jbodiegosierra@gmail.com
